@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I like to make random stuffs with Python and discord.py
+Check out my bot @ https://discord.gg/hGh5CNGn7C
 <!--
 **FASTANDEXTREME/FASTANDEXTREME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
