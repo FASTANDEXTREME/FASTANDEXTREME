@@ -1,20 +1,69 @@
-<h1 align="center">Hi 👋, I'm Harsh Bhoite</h1>
-<h3 align="center">Loves Java and Cybersecurity</h3>
+<h1 align="center">Hey 👋, I'm Harsh Bhoite</h1>
+<h3 align="center">💻 Java Developer | 🔐 Cybersecurity Enthusiast | 🏍️ Motorcycle Lover</h3>
 
-- 🔭 I’m currently working on [PhishDefenderAI](https://github.com/FASTANDEXTREME/Phish-Defender-AI)
-
-- 🌱 I’m currently learning **Java for Development**
-
-- 💬 Ask me about **Motorcycles**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshbhoite21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshbhoite21" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/FASTANDEXTREME/Phish-Defender-AI">
+    <img src="https://img.shields.io/badge/🚀 Current Project-PhishDefenderAI-blue?style=for-the-badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fastandextreme&show_icons=true&locale=en" alt="fastandextreme" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fastandextreme&" alt="fastandextreme" /></p>
+- 🔭 Currently building **PhishDefenderAI**
+- 🌱 Learning **Java for scalable development**
+- 💬 Ask me about **Cybersecurity, Java, Motorcycles**
+- ⚡ Fun fact: I break things to understand them better
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshbhoite21">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fastandextreme&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fastandextreme&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+
+```text
+🔐 Cybersecurity Projects
+☕ Java Development
+⚡ Building real-world tools
+```
+
+---
+
+## 🏁 Featured Project
+
+### 🚀 PhishDefenderAI
+> AI-powered phishing detection system designed to identify malicious URLs and protect users.
+
+🔗 https://github.com/FASTANDEXTREME/Phish-Defender-AI
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fastandextreme&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
