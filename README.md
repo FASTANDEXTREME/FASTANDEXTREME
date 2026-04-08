@@ -1,22 +1,20 @@
-### Hi there 👋
-# 💫 About Me:
-Loves Java and Cybersecurity. Currently working on project to detect Phishing links.
+<h1 align="center">Hi 👋, I'm Harsh Bhoite</h1>
+<h3 align="center">Loves Java and Cybersecurity</h3>
 
+- 🔭 I’m currently working on [PhishDefenderAI](https://github.com/FASTANDEXTREME/Phish-Defender-AI)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshbhoite21/) 
+- 🌱 I’m currently learning **Java for Development**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FASATANDEXTREME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FASATANDEXTREME&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FASATANDEXTREME&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💬 Ask me about **Motorcycles**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FASATANDEXTREME&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshbhoite21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshbhoite21" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=FASATANDEXTREME&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fastandextreme&show_icons=true&locale=en" alt="fastandextreme" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fastandextreme&" alt="fastandextreme" /></p>
