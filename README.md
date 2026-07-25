@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35">, I'm Harsh Bhoite
+  Hey! I'm Harsh Bhoite
 </h1>
 
 <p align="center">
