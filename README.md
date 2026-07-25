@@ -3,9 +3,11 @@
 </h1>
 
 <p align="center">
-  ⚡
   <a href="https://github.com/FASTANDEXTREME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Java+Developer;Cybersecurity+Enthusiast;Motorcycle+Lover;Building+real-world+tools" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Java+Developer;Cybersecurity+Enthusiast;Motorcycle+Lover;Building+real-world+tools"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
