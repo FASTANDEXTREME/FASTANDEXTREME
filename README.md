@@ -2,8 +2,8 @@
 <h3 align="center">💻 Java Developer | 🔐 Cybersecurity Enthusiast | 🏍️ Motorcycle Lover</h3>
 
 <p align="center">
-  <a href="https://github.com/FASTANDEXTREME/Phish-Defender-AI">
-    <img src="https://img.shields.io/badge/🚀 Current Project-PhishDefenderAI-blue?style=for-the-badge" />
+  <a href="https://github.com/FASTANDEXTREME/Anudip-Project-Assignments">
+    <img src="https://img.shields.io/badge/🚀 Current Project-Anudip%20Project%20Assignments-blue?style=for-the-badge" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **PhishDefenderAI**
+- 🔭 Currently building **Anudip Project Assignments**
 - 🌱 Learning **Java for scalable development**
 - 💬 Ask me about **Cybersecurity, Java, Motorcycles**
 - ⚡ Fun fact: I break things to understand them better
@@ -51,19 +51,3 @@
 🔐 Cybersecurity Projects
 ☕ Java Development
 ⚡ Building real-world tools
-```
-
----
-
-## 🏁 Featured Project
-
-### 🚀 PhishDefenderAI
-> AI-powered phishing detection system designed to identify malicious URLs and protect users.
-
-🔗 https://github.com/FASTANDEXTREME/Phish-Defender-AI
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fastandextreme&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
